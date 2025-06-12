@@ -1,0 +1,15 @@
+selenium==4.18.1
+webdriver-manager==4.0.1
+beautifulsoup4==4.12.3
+pandas==2.2.2
+python-dotenv==1.0.1
+requests==2.31.0
+sentence-transformers==2.5.1
+chromadb==0.4.24
+fastapi==0.110.0
+uvicorn==0.27.1
+numpy==1.26.4
+pydantic==2.6.3
+pytest==8.0.2
+tqdm==4.66.2
+python-dateutil==2.8.2
